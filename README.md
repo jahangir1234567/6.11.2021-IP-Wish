@@ -1,12 +1,12 @@
-# 6.11.2021-IP-Wish
-IPTV Playlist IP Wish
-#EXTINF:-1,
+6.11.2021-IP-Wish
+IPTV Playlist IP Wish (MD: Jahangir Khan)
+#EXTINF:-1,1
 https://ott.bingebd.com/live/ngrp:gazi_tv_all/index.m3u8
 #EXTM3U
-#EXTINF:-1,G TV
+#EXTINF:-1,G TV link 1
 http://172.17.17.19:8088/hls/01gazitv.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, G TV link 2
 http://103.106.243.163:8989/gazi-tv/index.m3u8
 
 #EXTINF:-1,B TV
@@ -18,7 +18,7 @@ http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:-1,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-Piece TV Bangla
+#EXTINF:-1,Piece TV Bangla
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,S TV
@@ -57,6 +57,7 @@ http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
 #EXTINF:-1,SONY MAX HD
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
 
+#EXTINF:-1,SONY MAX
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,& PICTURES HD
@@ -116,6 +117,7 @@ http://212.224.98.209:2200/EX/stargold-in/index.m3u8?token=RK
 #EXTINF:-1,Colors HD
 http://212.102.60.40:2200/EX/Colors-in/index.m3u8?token=RK
 
+#EXTINF:-1,Colors
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 
 #EXTINF:-1,Sony max 2
@@ -181,6 +183,7 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BT Sport's
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
+#EXTINF:-1,DNA
 http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 
 #EXTINF:-1,AlKass three HD
